@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Jan alias tivenide👋
+- 🔭 I’m currently working on spikedetection
+
 
 <!--
 **tivenide/tivenide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
