@@ -1,5 +1,6 @@
 ### Hi there I'm Jan alias tivenide👋
-- 🔭 I’m currently working on hpc-cluster 
+- 🔭 I’m currently working on hpc-cluster
+- 🌱 My on-going learning relates to containerization
 - 💬 Ask me about spikedetection
 
 <!--
