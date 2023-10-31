@@ -1,6 +1,6 @@
 ### Hi there I'm Jan alias tivenide👋
-- 🔭 I’m currently working on spikedetection
-
+- 🔭 I’m currently working on hpc-cluster 
+- 💬 Ask me about spikedetection
 
 <!--
 **tivenide/tivenide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
